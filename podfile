@@ -1,0 +1,8 @@
+platform :ios, '9.0'
+
+source 'https://mirrors.tuna.tsinghua.edu.cn/git/CocoaPods/Specs.git'
+target 'CustomMapDemo' do
+ pod 'AMapLocation', '2.8.0'
+ pod 'AMapSearch', '8.1.0'
+ pod 'AMap3DMap', '8.1.0'
+end
