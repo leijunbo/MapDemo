@@ -5,4 +5,7 @@ target 'CustomMapDemo' do
  pod 'AMapLocation', '2.8.0'
  pod 'AMapSearch', '8.1.0'
  pod 'AMap3DMap', '8.1.0'
+#pod 'AMapLocation', '2.8.0'
+#pod 'AMapSearch', '9.2.0'
+#pod 'AMap3DMap', '9.2.1'
 end

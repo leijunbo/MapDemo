@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		2C3AEC838E62DCD4CADBC943 /* libPods-CustomMapDemo.a in Frameworks */ = {isa = PBXBuildFile; fileRef = C63786EE57D901CCAAB9CD99 /* libPods-CustomMapDemo.a */; };
+		4466D6702885500200E7B8E2 /* running_record.json in Resources */ = {isa = PBXBuildFile; fileRef = 4466D66F2885500200E7B8E2 /* running_record.json */; };
 		449E86952861E0B500168C49 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 449E86942861E0B500168C49 /* AppDelegate.m */; };
 		449E869B2861E0B500168C49 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 449E869A2861E0B500168C49 /* ViewController.m */; };
 		449E869E2861E0B500168C49 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 449E869C2861E0B500168C49 /* Main.storyboard */; };
@@ -40,6 +41,7 @@
 
 /* Begin PBXFileReference section */
 		078951840AEFD14E81D29F05 /* Pods-CustomMapDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CustomMapDemo.release.xcconfig"; path = "Target Support Files/Pods-CustomMapDemo/Pods-CustomMapDemo.release.xcconfig"; sourceTree = "<group>"; };
+		4466D66F2885500200E7B8E2 /* running_record.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = running_record.json; sourceTree = "<group>"; };
 		449E86902861E0B500168C49 /* CustomMapDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CustomMapDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		449E86932861E0B500168C49 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		449E86942861E0B500168C49 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -116,6 +118,7 @@
 				449E86942861E0B500168C49 /* AppDelegate.m */,
 				449E86992861E0B500168C49 /* ViewController.h */,
 				449E869A2861E0B500168C49 /* ViewController.m */,
+				4466D66F2885500200E7B8E2 /* running_record.json */,
 				449E86C82861E2BF00168C49 /* mystyle_sdk_1655170762_0100 */,
 				449E869C2861E0B500168C49 /* Main.storyboard */,
 				449E869F2861E0B800168C49 /* Assets.xcassets */,
@@ -180,7 +183,7 @@
 				449E868C2861E0B500168C49 /* Sources */,
 				449E868D2861E0B500168C49 /* Frameworks */,
 				449E868E2861E0B500168C49 /* Resources */,
-				7C1A94287F9168F6E9B23AF7 /* [CP] Copy Pods Resources */,
+				52A7D78D64A1E329DD6A4EF2 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -276,6 +279,7 @@
 			files = (
 				449E86A32861E0B800168C49 /* LaunchScreen.storyboard in Resources */,
 				449E86CC2861E2BF00168C49 /* running_detail_style.data in Resources */,
+				4466D6702885500200E7B8E2 /* running_record.json in Resources */,
 				449E86CB2861E2BF00168C49 /* running_detail_style_extra.data in Resources */,
 				449E86A02861E0B800168C49 /* Assets.xcassets in Resources */,
 				449E869E2861E0B500168C49 /* Main.storyboard in Resources */,
@@ -299,7 +303,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		7C1A94287F9168F6E9B23AF7 /* [CP] Copy Pods Resources */ = {
+		52A7D78D64A1E329DD6A4EF2 /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
